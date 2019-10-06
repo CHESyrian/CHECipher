@@ -96,8 +96,8 @@ class Cipher_App(object):
         self.btn_logo = QPushButton(FORM_1)
         #Buttons names
         self.btn_1.setText('Select')
-        self.btn_2.setText('Encodec')
-        self.btn_3.setText('Decoded')
+        self.btn_2.setText('Encode')
+        self.btn_3.setText('Decode')
         self.btn_4.setText('Cancel')
         self.btn_5.setText('Save')
         self.btn_6.setText('Show')
